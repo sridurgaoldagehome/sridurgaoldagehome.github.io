@@ -1544,6 +1544,22 @@ div#preloader {
   line-height: 30px;
 }
 
+i.copy-symbol{
+  font-size: 16px;
+  line-height: 30px;
+  width: auto;
+  height: auto;
+}
+
+i.copy-symbol:hover{
+  color: #333;
+  font-size: 16px;
+  line-height: 30px;
+  width: auto;
+  height: auto;
+}
+
+
 .contact-icon {
   margin-bottom: 40px;
 }
